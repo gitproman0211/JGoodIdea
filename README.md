@@ -1,51 +1,120 @@
-# Angular on Netlify Quick Start Template    
-![netlify + angular logo](https://res.cloudinary.com/dzkoxrsdj/image/upload/v1646339469/angular_wzrs5o.png)
+[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
 
-This is a bare-bones Angular project that has everything you need to quickly deploy it to [Netlify](https://netlify.com). 
+<h1 align="center">Hi 👋, I'm James Gao</h1>
+<h3 align="center">Blockchain Specialist / Full Stack Engineer</h3>
+<br />
 
-Click this button and it will help you create a new repo, create a new Netlify project, and deploy!
+<p>Creative and results-oriented software engineer with a focus on the design and implementation of backend side. 8+ years of experience in developing.
+Skilled in agile processes, backend and frontend development, and creating financial dApp on blockchain.</p>
 
-[![Deploy to Netlify Button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/angular-quickstart)
+<br />
 
-## Setup
+<img src="https://raw.githubusercontent.com/deep-quality-dev/deep-quality-dev/main/code.gif" align="right" alt="" width="50%">
 
-Clone this repo with one of these options:
-- Click the 'Deploy to Netlify' button above
-- Click the 'Use this template' button at the top of the page
-- Or via the command line `git clone https://github.com/netlify-templates/angular-quickstart`
+- 👯 I collaborate with **Good client**
 
-Then install the necessary packages and run the project locally to make sure everything works.
+- 👨‍💻 You can see [here](https://jgoodidea.netlify.app/) more about me and my work
 
-```bash
-npm install
-ng serve
-```
+- 📫 Reach me at **gloproman0211@gmail.com**
 
-Alternatively, you can run this locally with [the Netlify CLI](https://docs.netlify.com/cli/get-started/)'s `netlify dev` command for more options like receiving a live preview to share (`netlify dev --live`) and the ability to test [Netlify Functions](https://www.netlify.com/products/functions) and [redirects](https://docs.netlify.com/routing/redirects/). 
+- 😄 Pronouns: He/His
 
-> 🚨 If you decide to change the project name be sure to change it everywhere in the project including the [Netlify configuration file, `netlify.toml`](./netlify.toml), as there are many places in Angular projects where the project name is used. A quick fix is to find/replace all instances of `angular-quickstart` with your project name.
+<br />
+<p align="left">
+  <h3 align="left">Connect with me:
+    <a href="https://linkedin.com/in/jgoodidea" target="_blank">
+      <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="james" height="40" width="40" />
+    </a>
+    <a href="https://twitter.com/jgoodidea" target="_blank">
+      <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="james" height="40" width="40" />
+    </a>
+  </h3>
+</p>
+<br />
 
-## Deploying
+<h3 align="left">Languages and Tools:</h3>
 
-There are a few ways to deploy this template:
-- Click the 'Deploy to Netlify' button above 
-- Use the `netlify deploy` command
-- Head to the [Netlify UI](https://app.netlify.com/) to deploy via GitHub or [drag and drop](https://app.netlify.com/drop) the project folder
-- Use the Netlify CLI's create from template command `netlify sites:create-template angular-quickstart` which will create a repo, Netlify project, and deploy it
+<a href="#" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="nodejs" width="40" height="40" />
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="nodejs" width="40" height="40" />
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="nodejs" width="40" height="40" />
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-plain.svg" alt="nodejs" width="40" height="40" />
+</a>
 
-## Angular 💙 Netlify Resources
+<a href="#" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" />
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" />
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" />
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="mysql" width="40" height="40" />
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40" />
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40" />
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40" />
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
+</a>
 
-Here are some resources to help you on your Angular + Netlify coding fun!
+<a href="#" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40" />
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40" />
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40" />
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40" />
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" />
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40" />
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40" />
+</a>
 
-- [A video walkthrough of the Angular Quick Start Template](https://youtu.be/rNAiN94bBUs)
-- [A blog post on the Angular Quick Start Template](https://www.netlify.com/blog/get-started-with-angular-on-netlify-quickly)
-
-- [Angular on Netlify Configuration Docs](https://docs.netlify.com/configure-builds/common-configurations/angular/)
-- [Angular posts via the Netlify Blog](https://www.netlify.com/tags/angular/)
-- [Angular in the Jamstack Tutorials](https://explorers.netlify.com/learn/angular-in-the-jamstack)
-
-Hope this template helps :) Happy coding 👩🏻‍💻!
-
----
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
+<a href="#" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" />
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="git" width="40" height="40" />
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/circleci/circleci-plain.svg" alt="git" width="40" height="40" />
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg" alt="git" width="40" height="40" />
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="git" width="40" height="40" />
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="mongodb" width="40" height="40" />
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="mongodb" width="40" height="40" />
+</a>
