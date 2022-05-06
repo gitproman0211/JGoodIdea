@@ -18,7 +18,6 @@
     "@angular/platform-browser": "~13.2.0",
     "@angular/platform-browser-dynamic": "~13.2.0",
     "@angular/router": "~13.2.0",
-    "@ng-bootstrap/ng-bootstrap": "^12.1.1",
     "@popperjs/core": "^2.11.5",
     "rxjs": "~7.5.0",
     "sass": "^1.51.0",
