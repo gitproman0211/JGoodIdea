@@ -46,7 +46,7 @@ li {
   position: absolute;
   display: block;
   width: 4px;
-  background: #f2f3f7;
+  background: #e6e9f5;
   top: 20px;
   bottom: 20px;
   margin-left: 29px;
@@ -75,9 +75,9 @@ li {
   -ms-border-radius: 50%;
   border-radius: 50%;
   text-align: center;
-  -moz-box-shadow: 0 0 0 5px #f2f3f7;
-  -webkit-box-shadow: 0 0 0 5px #f2f3f7;
-  box-shadow: 0 0 0 5px #f2f3f7;
+  -moz-box-shadow: 0 0 0 5px #e6e9f5;
+  -webkit-box-shadow: 0 0 0 5px #e6e9f5;
+  box-shadow: 0 0 0 5px #e6e9f5;
   line-height: 40px;
   float: left;
 }
@@ -88,7 +88,7 @@ li {
   .timeline-entry
   .timeline-entry-inner
   .timeline-icon.color-2 {
-  background: #ec5453;
+  background: #00334d;
 }
 .timeline-centered
   .timeline-entry
@@ -120,7 +120,7 @@ li {
 
 .timeline-centered .timeline-entry .timeline-entry-inner .timeline-label {
   position: relative;
-  background: #f2f3f7;
+  background: #e6e9f5;
   padding: 1.5em;
   margin-left: 60px;
   -webkit-background-clip: padding-box;
@@ -136,7 +136,7 @@ li {
   height: 0;
   border-style: solid;
   border-width: 9px 9px 9px 0;
-  border-color: transparent #f2f3f7 transparent transparent;
+  border-color: transparent #e6e9f5 transparent transparent;
   left: 0;
   top: 10px;
   margin-left: -9px;
