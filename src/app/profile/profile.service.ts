@@ -285,8 +285,8 @@ export class ProfileService {
       education: "Bachelor's Degree",
       institution: 'Xiangtan University',
       stream: 'Bachelor of Computer Science',
-      info: `Completed B.E in Computer Science .
-I studied about Web development, Software Engineering, App Development and Project management.`,
+      info: `Be honored with bachelor’s degree in Computer Science under the robust educational background .
+I studied about Web development, Software Engineering, App Development and Project management`,
     },
   ];
 
