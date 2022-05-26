@@ -319,7 +319,7 @@ I studied about Web development, Software Engineering, App Development and Proje
       id: 3,
       company: 'OlympusDAO',
       location: 'Remote',
-      timeline: 'May 2019 - Nov 2019',
+      timeline: 'Nov 2018 - Mar 2019',
       role: 'Smart contract developer - Freelancer',
       work: 'Technologies: Solidity, Truffle, Smart Contract, Strategy, Bonding & Lending . Built logic of lending system . Implement smart contract by using solidity, truffle'
     },
