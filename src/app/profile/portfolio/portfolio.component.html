@@ -19,13 +19,14 @@
       <div class="ml-auto mr-auto">
         <div class="row">
           <ng-container *ngFor="let item of portfolioList | paginate: config">
-            <div class="col-md-4">
+            <div class="col-lg-4 col-md-6 col-sm-12">
               <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
                 <figure class="cc-effect">
                   <img src="{{ item.imgUrl }}" alt="{{ item.imgAlt }}" />
                   <figcaption>
                     <div class="h4">{{ item.title }}</div>
                     <p>{{ item.category }}</p>
+                    <p>{{ item.skills }}</p>
                   </figcaption>
                 </figure>
               </div>
