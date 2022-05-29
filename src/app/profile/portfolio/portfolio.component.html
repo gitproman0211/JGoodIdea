@@ -10,7 +10,6 @@
               <i class="fa fa-laptop" aria-hidden="true"></i>
             </a>
           </li>
-          
         </ul>
       </div>
     </div>
@@ -19,33 +18,23 @@
     <div class="tab-pane active" id="web-development">
       <div class="ml-auto mr-auto">
         <div class="row">
-          <div class="col-md-6">
-            <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
-              <a href="https://personal-portfolio0320.000webhostapp.com/">
+          <ng-container *ngFor="let item of portfolioList | paginate: config">
+            <div class="col-md-4">
+              <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
                 <figure class="cc-effect">
-                  <img src="assets/images/portfolio1.PNG" alt="Image" />
+                  <img src="{{ item.imgUrl }}" alt="{{ item.imgAlt }}" />
                   <figcaption>
-                    <div class="h4">Made Using Angular8</div>
-                    <p>Web Development</p>
+                    <div class="h4">{{ item.title }}</div>
+                    <p>{{ item.category }}</p>
                   </figcaption>
                 </figure>
-              </a>
+              </div>
             </div>
-          </div>
-          <div class="col-md-6">
-            <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
-              <a href="http://msgc320.pythonanywhere.com/">
-                <figure class="cc-effect">
-                  <img src="assets/images/portfolio2.PNG" alt="Image" />
-                  <figcaption>
-                    <div class="h4">Made Using Django</div>
-                    <p>Web Development</p>
-                  </figcaption>
-                </figure>
-              </a>
-            </div>
-          </div>
+          </ng-container>
         </div>
+        <pagination-controls
+          (pageChange)="pageChanged($event)"
+        ></pagination-controls>
       </div>
     </div>
     
