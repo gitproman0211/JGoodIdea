@@ -207,7 +207,7 @@ I studied about Web development, Software Engineering, App Development and Proje
     },
     {
       id: 2,
-      captionLink: "#",
+      captionLink: "https://jgoodidea.netlify.app",
       imgUrl: "assets/images/viewas/angular.svg",
       imgAlt: "View in Angular",
       caption: "Angular",
