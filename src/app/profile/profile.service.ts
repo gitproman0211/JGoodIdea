@@ -203,7 +203,7 @@ I studied about Web development, Software Engineering, App Development and Proje
       captionLink: "#",
       imgUrl: "assets/images/viewas/react.svg",
       imgAlt: "View in React",
-      caption: "React",
+      caption: "Coming Soon",
     },
     {
       id: 2,
@@ -217,14 +217,14 @@ I studied about Web development, Software Engineering, App Development and Proje
       captionLink: "#",
       imgUrl: "assets/images/viewas/ror.svg",
       imgAlt: "View in Ruby on Rails",
-      caption: "Ruby on Rails",
+      caption: "Coming Soon",
     },
     {
       id: 4,
       captionLink: "#",
       imgUrl: "assets/images/viewas/flutter.svg",
       imgAlt: "View in Flutter",
-      caption: "App",
+      caption: "Coming Soon",
     },
   ]
 
