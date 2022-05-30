@@ -196,6 +196,38 @@ I studied about Web development, Software Engineering, App Development and Proje
       work: 'Technologies: Angular, NodeJS, PHP, AWS, HTML, Ruby on rails, SQLite, E2E . I developed search function module, email handling module, and payment process module.'
     },
   ];
+
+  viewAs: any = [
+    {
+      id: 1,
+      captionLink: "#",
+      imgUrl: "assets/images/viewas/react.svg",
+      imgAlt: "View in React",
+      caption: "React",
+    },
+    {
+      id: 2,
+      captionLink: "#",
+      imgUrl: "assets/images/viewas/angular.svg",
+      imgAlt: "View in Angular",
+      caption: "Angular",
+    },
+    {
+      id: 3,
+      captionLink: "#",
+      imgUrl: "assets/images/viewas/ror.svg",
+      imgAlt: "View in Ruby on Rails",
+      caption: "Ruby on Rails",
+    },
+    {
+      id: 4,
+      captionLink: "#",
+      imgUrl: "assets/images/viewas/flutter.svg",
+      imgAlt: "View in Flutter",
+      caption: "App",
+    },
+  ]
+
   // contactus(data: any): Observable<any> {
   //   return this.http.post(this.baseUrl + 'contact', data);
   // }
@@ -213,6 +245,10 @@ I studied about Web development, Software Engineering, App Development and Proje
   getPortfolioList(): Observable<any> {
     // return this.http.get(this.baseUrl + 'skills');
     return this.portfolioList;
+  }
+
+  getViewAs(): Observable<any> {
+    return this.viewAs;
   }
 
   education(): Observable<any> {

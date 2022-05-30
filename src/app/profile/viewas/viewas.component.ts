@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { ProfileService } from '../profile.service';
 
 @Component({
   selector: 'app-viewas',
@@ -6,7 +7,11 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./viewas.component.scss'],
 })
 export class ViewAsComponent implements OnInit {
-  constructor() {}
+  viewAs: any = [];
 
-  ngOnInit() {}
+  constructor(private profileService: ProfileService) {}
+
+  ngOnInit() {
+    this.viewAs = this.profileService.getViewAs();
+  }
 }
