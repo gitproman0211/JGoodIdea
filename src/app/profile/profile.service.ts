@@ -100,7 +100,7 @@ export class ProfileService {
     },
     {
       id: 10,
-      title: "Angular",
+      title: "Pure HTML",
       imgUrl: "assets/images/portfolios/web-html.png",
       imgAlt: "html",
       category: "Web Development",
