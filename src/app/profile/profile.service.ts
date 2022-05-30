@@ -29,9 +29,10 @@ export class ProfileService {
     {
       id: 1,
       title: "Smart Contract",
-      imgUrl: "assets/images/portfolios/smart-contract.png",
+      imgUrl: "assets/images/portfolios/blockchain-smart-contract.png",
       imgAlt: "Smart contract",
-      category: "Blockchain Development"
+      category: "Blockchain Development",
+      skills: "Solidity/Rust/Remix",
     },
   ];
 
