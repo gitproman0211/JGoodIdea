@@ -249,7 +249,7 @@ I studied about Web development, Software Engineering, App Development and Proje
       location: 'Remote',
       timeline: 'Mar 2021 - Apr 2022',
       role: 'DevOps Manager & Full Stack Developer',
-      work: 'Technologies: Git, DigitalOcean, Nginx, pm2, npmjs, React, TypeScript, Web3, Solidity, ICO, NodeJS, Express, MongoDB . Designed work environment to provide easy develop/deploy . Developed APIs by using node.js, mongoDB, express.js . Reviewed and tested frontend as user view'
+      work: 'I was owed a comfortable and easy-to-manage environment and blockchain applications. For this, I developed a script that deploys automatically the application and integrates CircleCI into a GitHub repository . I published a pre-sale web application to help the team raise over $1.5 million . Technologies: Git, DigitalOcean, Nginx, pm2, npmjs, React, TypeScript, Web3, Solidity, ICO, NodeJS, Express, MongoDB'
     },
     {
       id: 5,
@@ -257,7 +257,7 @@ I studied about Web development, Software Engineering, App Development and Proje
       location: 'Remote',
       timeline: 'Jan 2020 - Aug 2020',
       role: 'Full Stack Developer',
-      work: 'Technologies: React, JavaScript, Dart, Flutter . Built landing page and dex application with react, web3 . Developed mobile app by using dart / flutter'
+      work: 'I needed to develop a crypto exchange platform and app. I published successfully by using react and flutter . Technologies: React, JavaScript, Dart, Flutter'
     },
     {
       id: 4,
@@ -265,15 +265,15 @@ I studied about Web development, Software Engineering, App Development and Proje
       location: 'Remote',
       timeline: 'Mar 2019 - Jan 2020',
       role: 'Full Stack Developer / Smart contract developer',
-      work: 'Technologies: React, Web3, JavaScript, Blockchain, Solidity, Smart contract, Truffle, Dex . Developed and deployed IOC/farm/pool contract . Developed DEX platform - DeFi . Implemented platform with blockchain network'
+      work: 'Developed and deployed IOC/farm/pool contract . Developed DEX platform - DeFi . Implemented platform with blockchain network . Technologies: React, Web3, JavaScript, Blockchain, Solidity, Smart contract, Truffle, Dex'
     },
     {
       id: 3,
-      company: 'OlympusDAO',
+      company: 'DAO system',
       location: 'Remote',
       timeline: 'Nov 2018 - Mar 2019',
       role: 'Smart contract developer - Freelancer',
-      work: 'Technologies: Solidity, Truffle, Smart Contract, Strategy, Bonding & Lending . Built logic of lending system . Implement smart contract by using solidity, truffle'
+      work: 'Built logic of lending system . Implement smart contract by using solidity, truffle . Technologies: Solidity, Truffle, Smart Contract, Strategy, Bonding & Lending'
     },
     {
       id: 2,
@@ -281,7 +281,7 @@ I studied about Web development, Software Engineering, App Development and Proje
       location: 'Remote',
       timeline: 'Jun 2018 - Nov 2018',
       role: 'Front-end Developer',
-      work: 'Technologies: HTML, CSS, JavaScript, PHP, MySQL, Email template, SocketIO . I worked as a front-end developer here to developing company landing page, and did integration work'
+      work: 'I was responsible for providing a company landing page which can be templates . I developed code that was well-structured and well designed to easily update the future and delivered . Technologies: HTML, CSS, JavaScript, PHP, MySQL, Email template, SocketIO'
     },
     {
       id: 1,
@@ -289,7 +289,7 @@ I studied about Web development, Software Engineering, App Development and Proje
       location: 'Remote',
       timeline: 'May 2015 - Apr 2018',
       role: 'Full Stack Developer',
-      work: 'Technologies: Angular, NodeJS, PHP, AWS, HTML, Ruby on rails, SQLite, E2E . I developed search function module, email handling module, and payment process module.'
+      work: 'Owed to test and develop email system, payment module, and search module . Here I developed search function module, email handling module, and payment process module . I grew my skills in developing B2C/C2C marketplace and Angular, PHP, HTML, MySQL, AWS . Technologies: Angular, NodeJS, PHP, AWS, HTML, Ruby on rails, SQLite, E2E'
     },
   ];
 
