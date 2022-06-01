@@ -247,7 +247,7 @@ I studied about Web development, Software Engineering, App Development and Proje
       id: 6,
       company: 'Crosswise fi',
       location: 'Remote',
-      timeline: 'Mar 2021 - Apr 2022',
+      timeline: 'May 2021 - Apr 2022',
       role: 'DevOps Manager & Full Stack Developer',
       work: 'I was owed a comfortable and easy-to-manage environment and blockchain applications. For this, I developed a script that deploys automatically the application and integrates CircleCI into a GitHub repository . I published a pre-sale web application to help the team raise over $1.5 million . Technologies: Git, DigitalOcean, Nginx, pm2, npmjs, React, TypeScript, Web3, Solidity, ICO, NodeJS, Express, MongoDB'
     },
