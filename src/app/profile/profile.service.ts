@@ -296,10 +296,10 @@ I studied about Web development, Software Engineering, App Development and Proje
   viewAs: any = [
     {
       id: 1,
-      captionLink: "#",
+      captionLink: "https://r-jgoodidea.netlify.app",
       imgUrl: "assets/images/viewas/react.svg",
       imgAlt: "View in React",
-      caption: "Coming Soon",
+      caption: "React",
     },
     {
       id: 2,
