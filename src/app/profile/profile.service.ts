@@ -310,7 +310,7 @@ I studied about Web development, Software Engineering, App Development and Proje
     },
     {
       id: 3,
-      captionLink: "#",
+      captionLink: "https://jgoodidea.herokuapp.com",
       imgUrl: "assets/images/viewas/ror.svg",
       imgAlt: "View in Ruby on Rails",
       caption: "Coming Soon",
