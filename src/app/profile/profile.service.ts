@@ -140,7 +140,7 @@ export class ProfileService {
   Expertise in Angular, React, Javascript, Node JS and UI with Responsive Designs / Solidity, Contract, Truffle & Hardhat and Web3`;
 
   resumeurl =
-    'https://docs.google.com/document/d/1NiED6v1HmS70jZ030VQxSh2gQhC4DNz0/edit?usp=sharing&ouid=109147175607629233169&rtpof=true&sd=true';
+    'https://drive.google.com/file/d/1gG7MbOGphllxj_U9UGz4oH5zeUKvXIek/view?usp=sharing';
 
   skillsData: any = [
     {
