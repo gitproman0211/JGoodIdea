@@ -135,7 +135,8 @@ export class ProfileService {
   about =
     'Creative and results-oriented Full Stack Software Engineer with a focus on the design and implementation of backend side. Skilled in agile processes, backend and frontend development, and creating financial dApp on blockchain. Lover of everything related to generate innovation and new knowledge. Problem solver who faces them with a smile and solves them as quickly as possible. I am interested in winter sports such as snowboarding.';
 
-  about2 = `Worked with Software Development Life Cycle(SDLC) and agile methodologies .
+  about2 = `Worked with Software Development Life Cycle(SDLC) .
+  Skilled in agile processes, back-end and front-end development, and creating financial dApp on blockchain .
   Familiar with blockchain concepts and know how to implement .
   Expertise in Angular, React, Javascript, Node JS and UI with Responsive Designs / Solidity, Contract, Truffle & Hardhat and Web3`;
 
